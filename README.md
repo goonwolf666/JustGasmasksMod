@@ -1,2 +1,5 @@
 # JustGasmasksMod
-Source for the 'Just Gasmasks!' mod for DayZ
+
+Source code for the 'Just Gasmasks!' mod for DayZ.
+
+Stream Workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=3303280317
